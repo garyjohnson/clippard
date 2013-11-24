@@ -13,6 +13,7 @@
 		8C15D85816E166190052909E /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 8C15D85616E166190052909E /* Credits.rtf */; };
 		8C15D85B16E166190052909E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C15D85A16E166190052909E /* AppDelegate.m */; };
 		8C15D85E16E166190052909E /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C15D85C16E166190052909E /* MainMenu.xib */; };
+		8C15D86516E1668C0052909E /* Window.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C15D86416E1668C0052909E /* Window.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		8C15D85916E166190052909E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8C15D85A16E166190052909E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8C15D85D16E166190052909E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		8C15D86416E1668C0052909E /* Window.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Window.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				8C15D85A16E166190052909E /* AppDelegate.m */,
 				8C15D85C16E166190052909E /* MainMenu.xib */,
 				8C15D84E16E166190052909E /* Supporting Files */,
+				8C15D86416E1668C0052909E /* Window.xib */,
 			);
 			path = Clippard;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				8C15D85216E166190052909E /* InfoPlist.strings in Resources */,
 				8C15D85816E166190052909E /* Credits.rtf in Resources */,
 				8C15D85E16E166190052909E /* MainMenu.xib in Resources */,
+				8C15D86516E1668C0052909E /* Window.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
